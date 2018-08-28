@@ -1,0 +1,27 @@
+{
+  "name": "a-static-nodejs-and-express-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsPav/A-Static-Nodejs-and-Express-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsPav/A-Static-Nodejs-and-Express-Site/issues"
+  },
+  "homepage": "https://github.com/itsPav/A-Static-Nodejs-and-Express-Site#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}

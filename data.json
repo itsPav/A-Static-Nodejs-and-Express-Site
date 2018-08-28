@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Basic random quote generator using data structures and javascript.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "test",
+            "github_link": "https://github.com/itsPav/Random-Quote-Generator",
+            "project_img": "/imgs/randomQuoteProject.png",
+            "project_pics": ["/imgs/randomQuoteProject1.png","/imgs/randomQuoteProject2.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Pagination & Content Filter",
+            "description": "A web page that contains a list of employees including dynamic pagination and a search filter.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "test",
+            "github_link": "https://github.com/itsPav/Pagination",
+            "project_img": "",
+            "project_pics": []
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Basic form that collects information and performs form validation.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "test",
+            "github_link": "https://github.com/itsPav/Interactive-Form",
+            "project_img": "",
+            "project_pics": []
+        },
+        {
+            "id": 3,
+            "project_name": "Tic-Tac-Toe",
+            "description": "Simple 2 or 1 player tic-tac-toe game using OOP",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "test",
+            "github_link": "https://github.com/itsPav/tic-tac-toe-v3",
+            "project_img": "",
+            "project_pics": []
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory via API",
+            "description": "A dynamic employee directory which gets data using promises and renders them on a web page.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "test",
+            "github_link": "https://github.com/itsPav/employee_directory_v1",
+            "project_img": "",
+            "project_pics": []
+        },
+        {
+            "id": 5,
+            "project_name": "Content Scraper",
+            "description": "A content scraper that uses npm modules and saves specific data to a csv file.",
+            "technologies": ["HTML","CSS","JavaScript", "Nodejs"],
+            "live_link": "test",
+            "github_link": "https://github.com/itsPav/ContentScraper",
+            "project_img": "",
+            "project_pics": []
+        }
+    ]
+}
