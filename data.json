@@ -5,7 +5,7 @@
             "project_name": "Random Quote Generator",
             "description": "Basic random quote generator using data structures and javascript.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "test",
+            "live_link": "https://whispering-falls-45601.herokuapp.com/index.html",
             "github_link": "https://github.com/itsPav/Random-Quote-Generator",
             "project_img": "/imgs/randomQuoteProject.png",
             "project_pics": ["/imgs/randomQuoteProject1.png","/imgs/randomQuoteProject2.png"]
@@ -15,20 +15,20 @@
             "project_name": "Pagination & Content Filter",
             "description": "A web page that contains a list of employees including dynamic pagination and a search filter.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "test",
+            "live_link": "https://pagination-itspav.herokuapp.com/index.html",
             "github_link": "https://github.com/itsPav/Pagination",
-            "project_img": "",
-            "project_pics": []
+            "project_img": "/imgs/paginationProject.png",
+            "project_pics": ["/imgs/paginationProject1.png","/imgs/paginationProject2.png","/imgs/paginationProject3.png"]
         },
         {
             "id": 2,
             "project_name": "Interactive Form",
             "description": "Basic form that collects information and performs form validation.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "test",
+            "live_link": "https://interactive-form-pav.herokuapp.com/",
             "github_link": "https://github.com/itsPav/Interactive-Form",
-            "project_img": "",
-            "project_pics": []
+            "project_img": "/imgs/interactiveForm.png",
+            "project_pics": ["/imgs/interactiveForm1.png","/imgs/interactiveForm2.png"]
         },
         {
             "id": 3,

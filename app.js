@@ -41,7 +41,7 @@ app.get('/project/:id', function(req , res, next){
                                 technologies: data.projects[projectId].technologies,
                                 github: `${data.projects[projectId].github_link}`,
                                 live: `${data.projects[projectId].live_link}`,
-                                imgs: `${data.projects[projectId].project_pics}`
+                                imgs: data.projects[projectId].project_pics
         });
     }
 });
